@@ -144,7 +144,7 @@ La modificación simultánea de $C$ y $R_2$ produce una dinámica distinta entre
 <a id="modelo"></a>
 ## Formulación matemática
 
-El desarrollo a mano está en el PDF [`AnálisisMatematicoP4.pdf`](AnálisisMatematicoP4.pdf) y se resume a continuación.
+El desarrollo a mano está en el PDF [`AnalisisMatematico.pdf`](AnalisisMatematico.pdf) y se resume a continuación.
 
 ### 1. Ecuaciones integro-diferenciales (EID)
 
@@ -248,7 +248,7 @@ El polo dominante es aproximadamente $(R_1+R_2)/(L+R_1R_2C)$. En el caso, $R_1R_
 
 ### 3. Bosquejo previo
 
-Antes de simular se elaboró un bosquejo cualitativo de las respuestas al escalón (hoja 3 de [`AnálisisMatematicoP4.pdf`](AnálisisMatematicoP4.pdf)): el control sube rápido hasta ≈ 0.99 y el caso sube más despacio hasta ≈ 0.50.
+Antes de simular se elaboró un bosquejo cualitativo de las respuestas al escalón (hoja 3 de [`AnalisisMatematico.pdf`](AnalisisMatematico.pdf)): el control sube rápido hasta ≈ 0.99 y el caso sube más despacio hasta ≈ 0.50.
 
 [Volver al contenido](#contenido)
 
@@ -491,7 +491,7 @@ Organización de la entrega, con los nombres de los archivos tal como se generar
 ├── Moreno24210590P4.pdf               # Exportación del cuaderno MATLAB
 ├── Moreno24210590P4.py                # Implementación en Python
 ├── SistemaP4.slx                      # Modelo Simulink/Simscape
-├── AnálisisMatematicoP4.pdf           # Desarrollo analítico a mano
+├── AnalisisMatematico.pdf           # Desarrollo analítico a mano
 ├── ParametrosControlador.pdf          # Captura de la sintonización del PID
 ├── CasoTratamiento_matlab.pdf         # Figura generada en MATLAB
 ├── CasoTratamiento_python.pdf         # Figura generada en Python
