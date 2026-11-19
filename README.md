@@ -248,7 +248,7 @@ El polo dominante es aproximadamente $(R_1+R_2)/(L+R_1R_2C)$. En el caso, $R_1R_
 
 ### 3. Bosquejo previo
 
-Antes de simular se elaboró un bosquejo cualitativo de las respuestas al escalón (hoja 3 de [`AnalisisMatematico.pdf`](AnalisisMatematico.pdf)): el control sube rápido hasta ≈ 0.99 y el caso sube más despacio hasta ≈ 0.50.
+Antes de simular se elaboró un bosquejo cualitativo de las respuestas al escalón (hoja 10 de [`AnalisisMatematico.pdf`](AnalisisMatematico.pdf)): el control sube rápido hasta ≈ 0.99 y el caso sube más despacio hasta ≈ 0.50.
 
 [Volver al contenido](#contenido)
 
